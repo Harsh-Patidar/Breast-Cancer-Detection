@@ -35,12 +35,15 @@ Breast cancer is the most commonly occurring cancer in women and the second most
 ### Prevalence
 
 Asia
+
 Percentage of world population: 59 Percentage of new breast cancer cases: 39 Percentage of breast cancer deaths: 44
 
 Africa
+
 Percentage of world population: 15 Percentage of new breast cancer cases: 8 Percentage of breast cancer deaths: 12
 
 U.S. and Canada
+
 Percentage of world population: 5 Percentage of new breast cancer cases: 15 Percentage of breast cancer deaths: 9
 
 
